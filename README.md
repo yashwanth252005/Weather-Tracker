@@ -152,6 +152,9 @@ npm run preview
 
 ## 🎥 Demo & Documentation
 
+### Live preview
+👉 **[Live page](https://weathertracker-flame.vercel.app)**
+
 ### Repository
 👉 **[GitHub Repository](https://github.com/yashwanth252005/Weather-Tracker)**
 
