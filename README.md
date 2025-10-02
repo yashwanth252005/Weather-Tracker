@@ -152,11 +152,8 @@ npm run preview
 
 ## 🎥 Demo & Documentation
 
-### Live Demo
-👉 **[View Demo Video](https://ik.imagekit.io/h6z8c1dwm/Screen%20Recording%202025-09-19%20222302%20(1).mp4?updatedAt=1758301609349)**
-
 ### Repository
-👉 **[GitHub Repository](https://github.com/yashwanth252005/elevvopaths-frontend-task-5-weather-tracker)**
+👉 **[GitHub Repository](https://github.com/yashwanth252005/Weather-Tracker)**
 
 ---
 
